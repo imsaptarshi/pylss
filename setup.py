@@ -11,7 +11,7 @@ setuptools.setup(
     description="Python implementation of the common unix `ls` command",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/saptarshibasu15/py-ls.git",
+    url="https://github.com/saptarshibasu15/pylss.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
